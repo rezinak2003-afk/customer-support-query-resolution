@@ -1,22 +1,22 @@
-# Customer Support & Query Resolution System
+# Office Operations & Inventory Management Dashboard
 
 ## Problem
-Customer requests can be delayed or missed when they are not consistently logged, prioritised, assigned, and tracked.
+Small offices may track supplies informally, making it difficult to spot low stock and estimate inventory value.
 
 ## Workflow
-1. Log each query with a ticket ID, category, priority, owner, and due date.
-2. Update status as the issue progresses.
-3. Record response time, resolution time, and optional customer satisfaction.
-4. Review open, urgent, and completed tickets using the dashboard.
+1. Maintain an inventory register with SKU, category, supplier, unit cost, current stock, and reorder level.
+2. Flag items when stock is at or below the reorder level.
+3. Review the category summary and estimated stock value.
+4. Record receipts and issues in a stock-movement log if extending the workbook.
 
 ## KPIs
-Total tickets, open/in-progress tickets, urgent tickets, resolved/closed tickets, resolution rate, average resolution time, and average CSAT.
+Inventory SKUs, items to reorder, total units, estimated stock value, and IT supply count.
 
 ## Limitations
-All 15 records are fictional. Google Forms and Freshdesk are possible future extensions only; no live integration is implemented. Due dates are illustrative, not a real SLA policy.
+All 15 items and values are fictional. Reorder flags are formula-driven. This demo does not automatically update stock from movements or create purchase orders, and it has no live inventory integration.
 
 ## Project links
-- [Live project page](https://rezinak2003-afk.github.io/customer-support-query-resolution/)
-- [GitHub repository](https://github.com/rezinak2003-afk/customer-support-query-resolution)
-- [Excel workbook](Customer_Support_Query_Resolution.xlsx)
+- [Live project page](https://rezinak2003-afk.github.io/office-operations-inventory-dashboard/)
+- [GitHub repository](https://github.com/rezinak2003-afk/office-operations-inventory-dashboard)
+- [Excel workbook](Office_Operations_Inventory_Dashboard.xlsx)
 

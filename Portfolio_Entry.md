@@ -1,9 +1,9 @@
-## Customer Support & Query Resolution System
+## Office Operations & Inventory Management Dashboard
 **Tools:** Microsoft Excel.
 
-Built a support-operations portfolio demo to categorise customer queries, assign ownership, track priority and status, and review KPIs including open tickets, resolution rate, response/resolution times, and customer satisfaction. Used 15 fictional sample records; no live helpdesk integration is claimed.
+Created an inventory-management portfolio demo to organise supplies by SKU, category, supplier, unit cost, and stock level. Added formula-based reorder flags, stock valuation, and category summaries to support routine office operations. All 15 records are fictional; no live inventory or purchasing integration is claimed.
 
-**Live project:** https://rezinak2003-afk.github.io/customer-support-query-resolution/  
-**GitHub repository:** https://github.com/rezinak2003-afk/customer-support-query-resolution  
-**Workbook:** [Download from repository](Customer_Support_Query_Resolution.xlsx)
+**Live project:** https://rezinak2003-afk.github.io/office-operations-inventory-dashboard/  
+**GitHub repository:** https://github.com/rezinak2003-afk/office-operations-inventory-dashboard  
+**Workbook:** [Download from repository](Office_Operations_Inventory_Dashboard.xlsx)
 
