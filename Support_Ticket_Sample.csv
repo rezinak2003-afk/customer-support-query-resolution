@@ -1,0 +1,31 @@
+﻿Ticket ID,Channel,Category,Priority,Customer Language,Created Date,First Response Minutes,Elapsed or Resolution Hours,CSAT (1-5),Status,Owner,Escalation Tier
+TKT-001,Email,Delivery delay,High,English,2026-10-09,8,2.5,5,Resolved,Support A,Tier 1
+TKT-002,Web form,Order cancellation,Urgent,Hindi,2026-10-08,20,5,,New,Support B,Tier 2
+TKT-003,Chat,Damaged item,Low,English,2026-10-07,47,7,,Waiting on Customer,Support C,Tier 1
+TKT-004,Email,Wrong item,Normal,Hindi,2026-10-06,75,11,5,Closed,Tier 2,Tier 1
+TKT-005,Web form,Account access,High,English,2026-10-05,150,18,,In Progress,Support A,Tier 1
+TKT-006,Chat,Refund request,Urgent,Hindi,2026-10-04,12,1.5,4,Resolved,Support B,Tier 2
+TKT-007,Email,Product question,Low,English,2026-10-03,30,9,,New,Support C,Tier 1
+TKT-008,Web form,Payment issue,Normal,Hindi,2026-10-02,220,30,,Waiting on Customer,Tier 2,Tier 1
+TKT-009,Chat,Delivery delay,High,English,2026-10-01,60,14,4,Closed,Support A,Tier 1
+TKT-010,Email,Order cancellation,Urgent,Hindi,2026-09-30,18,4,,In Progress,Support B,Tier 2
+TKT-011,Web form,Damaged item,Low,English,2026-09-29,8,2.5,5,Resolved,Support C,Tier 1
+TKT-012,Chat,Wrong item,Normal,Hindi,2026-09-28,20,5,,New,Tier 2,Tier 1
+TKT-013,Email,Account access,High,English,2026-09-27,47,7,,Waiting on Customer,Support A,Tier 1
+TKT-014,Web form,Refund request,Urgent,Hindi,2026-10-09,75,11,5,Closed,Support B,Tier 2
+TKT-015,Chat,Product question,Low,English,2026-10-08,150,18,,In Progress,Support C,Tier 1
+TKT-016,Email,Payment issue,Normal,Hindi,2026-10-07,12,1.5,4,Resolved,Tier 2,Tier 2
+TKT-017,Web form,Delivery delay,High,English,2026-10-06,30,9,,New,Support A,Tier 1
+TKT-018,Chat,Order cancellation,Urgent,Hindi,2026-10-05,220,30,,Waiting on Customer,Support B,Tier 2
+TKT-019,Email,Damaged item,Low,English,2026-10-04,60,14,4,Closed,Support C,Tier 2
+TKT-020,Web form,Wrong item,Normal,Hindi,2026-10-03,18,4,,In Progress,Tier 2,Tier 1
+TKT-021,Chat,Account access,High,English,2026-10-02,8,2.5,5,Resolved,Support A,Tier 1
+TKT-022,Email,Refund request,Urgent,Hindi,2026-10-01,20,5,,New,Support B,Tier 2
+TKT-023,Web form,Product question,Low,English,2026-09-30,47,7,,Waiting on Customer,Support C,Tier 1
+TKT-024,Chat,Payment issue,Normal,Hindi,2026-09-29,75,11,5,Closed,Tier 2,Tier 1
+TKT-025,Email,Delivery delay,High,English,2026-09-28,150,18,,In Progress,Support A,Tier 1
+TKT-026,Web form,Order cancellation,Urgent,Hindi,2026-09-27,12,1.5,4,Resolved,Support B,Tier 2
+TKT-027,Chat,Damaged item,Low,English,2026-10-09,30,9,,New,Support C,Tier 1
+TKT-028,Email,Wrong item,Normal,Hindi,2026-10-08,220,30,,Waiting on Customer,Tier 2,Tier 1
+TKT-029,Web form,Account access,High,English,2026-10-07,60,14,4,Closed,Support A,Tier 1
+TKT-030,Chat,Refund request,Urgent,Hindi,2026-10-06,18,4,,In Progress,Support B,Tier 2

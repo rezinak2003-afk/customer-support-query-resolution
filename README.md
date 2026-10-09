@@ -1,19 +1,23 @@
-# Office Operations & Inventory Management Dashboard
+# Customer Support Helpdesk
 
-A portfolio project demonstrating a spreadsheet-based workflow relevant to customer operations and office administration.
+A portfolio-ready helpdesk simulation designed for entry-level customer support, non-voice support and front-desk roles.
 
-## Project files
-- [`Office_Operations_Inventory_Dashboard.xlsx`](Office_Operations_Inventory_Dashboard.xlsx) — Excel workbook with fictional sample records, tracking fields, formulas, and a dashboard.
-- [`Project_Case_Study.md`](Project_Case_Study.md) — problem, workflow, metrics, and limitations.
-- [`Portfolio_Entry.md`](Portfolio_Entry.md) — resume-ready project description.
-- [`index.html`](index.html) — project landing page.
+## Files
+- `index.html` — portfolio website (enable GitHub Pages from `main` / root).
+- `Customer_Support_Query_Resolution.xlsx` — Dashboard, Ticket Tracker, Reply Templates, SLA Matrix and How to Use.
+- `Support_Ticket_Sample.csv` — 30 synthetic ticket rows.
+- `Bilingual_Reply_Templates.csv` — 30 English/Hindi response templates.
+- `SLA_Escalation_Matrix.md` — illustrative response targets and escalation steps.
+- `Project_Case_Study.md` — problem, solution, metrics and limitations.
+- `Portfolio_Entry.md` — resume-ready summary.
 
-## Metrics included
-Inventory SKU count, items to reorder, total units in stock, estimated stock value, and IT supply count.
+## Key features
+- 30 multi-channel sample tickets
+- Priority and status dropdowns
+- Formula-driven response and resolution SLA flags
+- Dashboard with volume, activity, average time, recorded CSAT and SLA attainment
+- 30 bilingual customer reply templates
+- Escalation matrix
 
-## Scope and limitations
-All 15 inventory records and values are fictional. Reorder flags are formula-driven. The workbook does not automatically update stock from a movement log, create purchase orders, or integrate with live inventory software.
-
-## Links
-- [Live project page](https://rezinak2003-afk.github.io/office-operations-inventory-dashboard/)
-- [GitHub repository](https://github.com/rezinak2003-afk/office-operations-inventory-dashboard)
+## Data and claims
+All sample records are fictional. The sample SLA targets are not real contractual promises. The workbook simulates the workflow in Excel and is **not** a live Freshdesk/Zendesk configuration.

@@ -1,9 +1,12 @@
-## Office Operations & Inventory Management Dashboard
-**Tools:** Microsoft Excel.
+# Resume / Portfolio Entry — Customer Support Helpdesk
 
-Created an inventory-management portfolio demo to organise supplies by SKU, category, supplier, unit cost, and stock level. Added formula-based reorder flags, stock valuation, and category summaries to support routine office operations. All 15 records are fictional; no live inventory or purchasing integration is claimed.
+**Customer Support Helpdesk | Excel-based practice project**
 
-**Live project:** https://rezinak2003-afk.github.io/office-operations-inventory-dashboard/  
-**GitHub repository:** https://github.com/rezinak2003-afk/office-operations-inventory-dashboard  
-**Workbook:** [Download from repository](Office_Operations_Inventory_Dashboard.xlsx)
+- Built a synthetic 30-ticket tracker for email, chat and web enquiries with priority, category, status, owner and escalation tier.
+- Created a dashboard for active/resolved tickets, response-SLA attainment, elapsed/resolution time and recorded CSAT.
+- Wrote 30 bilingual English/Hindi customer response templates for delivery delays, refunds, damaged items, payment and account issues.
+- Documented a sample escalation matrix and priority-based response/resolution targets.
 
+**Skills demonstrated:** Customer communication, complaint handling, ticket triage, escalation, service metrics, Excel reporting and documentation.
+
+**Important:** SLA targets are illustrative; all tickets are synthetic. No live helpdesk integration is claimed.
